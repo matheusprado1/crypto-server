@@ -19,7 +19,7 @@ defaults.headers.common["x-cg-demo-api-key"] = "SUA_API_KEY_AQUI";
 ```
 
 
-4. **Execução do Servidor**: Inicie o servidor proxy executando `node server.js` (ou o nome do arquivo principal do seu projeto) no terminal. O servidor iniciará na porta padrão (3001) ou na porta especificada na variável de ambiente `PORT`.
+4. **Execução do Servidor**: Inicie o servidor proxy executando `node server.js` no terminal. O servidor iniciará na porta padrão (3001) ou na porta especificada na variável de ambiente `PORT`.
 
 ## Rotas Disponíveis
 
